@@ -24,23 +24,29 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Austria / Österreich (at)
 
+##### Vienna / Wien
+
 - [Wiener Bierfest](http://www.wienerbierfest.at)
-   - 2015 @ Vienna / Wien, 1., Am Hof; May/28-31   (Nr. 6)
-   - 2014 @ Vienna / Wien, 1., Am Hof; Sept/11-14  (Nr. 5)
+   - 2015 @ 1., Am Hof; May/28-31   (Nr. 6)
+   - 2014 @ 1., Am Hof; Sept/11-14  (Nr. 5)
+
+<!-- new list -->
 
 - [Ottakringer Braukultur Wochen (9 Brauereien in 9 Wochen)](http://www.ottakringerbrauerei.at/braukulturwochen)
-   - 2015 @ Vienna / Wien, 16., Ottakring; Jul/2-Sept/2 (Nr. 3)
-   - 2014 @ Vienna / Wien, 16., Ottakring; Jul/3-Sept/3 (Nr. 2) 
+   - 2015 @ 16., Ottakring; Jul/2-Sept/2 (Nr. 3)
+   - 2014 @ 16., Ottakring; Jul/3-Sept/3 (Nr. 2) 
+
+##### Upper Austria / Oberösterreich
 
 - [Biermesse Ried (Festival der Biervielfalt)](https://www.facebook.com/events/1605757036310674)
-   - 2015 @ Ried i. Innkreis, Oberösterreich; Oct/24+25  (Nr. 2)
-   - 2014 @ Ried i. Innkreis, Oberösterreich; Oct/25+26  (Nr. 1)
+   - 2015 @ Ried i. Innkreis; Oct/24+25  (Nr. 2)
+   - 2014 @ Ried i. Innkreis; Oct/25+26  (Nr. 1)
 
 <!-- organized by BierIG  - http://www.bierig.org 
   -->
 
 - [Mühlviertler Bierfestival](http://www.muehlviertler-bierfestival.at)
-  - 2015 @ Freistadt, Mühlviertel, Oberösterreich; Apr/10+11
+  - 2015 @ Freistadt, Mühlviertel; Apr/10+11
 
 
 
@@ -60,9 +66,13 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - 2015 @ Bamberg; Aug/20-24   (Nr. 65)
    - 2014 @ Bamberg; Aug/21-25   (Nr. 64)
 
+<!-- new list -->
+
 - [Annafest ("Auf den Kellern")](http://www.forchheim.de/content/annafest-forchheim)
    - 2015 @ Forchheim; Jul/24-Aug/3  (Nr. 175)
    - 2014 @ Forchheim; Jul/25-Aug/4  (Nr. 174) 
+
+<!-- new list -->
 
 - [Kulmbacher Bierwoche](http://www.kulmbacher-bierwoche.de)
    - 2015 @ Kulmbach; Jul/25-Aug/2  (Nr. 66)
