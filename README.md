@@ -78,6 +78,12 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
    - 2015 @ Kulmbach; Jul/25-Aug/2  (Nr. 66)
    - 2014 @ Kulmbach; Jul/26-Aug/3  (Nr. 65)
 
+### Western Europe
+
+#### Belgium / België / Belgique / Belgien (be)
+
+- [Belgian Beer Weekend](http://www.belgianbrewers.be/en/events/belgian-beer-weekend-171/article/belgian-beer-weekend-530)
+   - 2015 @ Brussels; Sep/4-Sep/6 (Nr. 17)
 
 ## More
 
