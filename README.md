@@ -16,6 +16,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
   - [Central Europe](#central-europe)
       - [Austria / Österreich](#austria--%C3%96sterreich-at)
       - [Germany / Deutschland](#germany--deutschland-de)
+  - [Western Europe](#western-europe)
+      - [Belgium / België / Belgique / Belgien](#belgium--belgi%C3%AB--belgique--belgien-be)
 
 
 ## Europe
@@ -82,8 +84,11 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 #### Belgium / België / Belgique / Belgien (be)
 
-- [Belgian Beer Weekend](http://www.belgianbrewers.be/en/events/belgian-beer-weekend-171/article/belgian-beer-weekend-530)
-   - 2015 @ Brussels; Sep/4-Sep/6 (Nr. 17)
+- [Belgian Beer Weekend](http://www.belgianbrewers.be/en/events/belgian-beer-weekend-171)
+   - 2015 @ Brussels; Sept/4-6 (Nr. 17)
+
+<!-- organized by Belgian Brewers 
+  -->
 
 ## More
 
