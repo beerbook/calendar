@@ -18,7 +18,8 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
       - [Germany / Deutschland](#germany--deutschland-de)
   - [Western Europe](#western-europe)
       - [Belgium / België / Belgique / Belgien](#belgium--belgi%C3%AB--belgique--belgien-be)
-
+- [Calendar](#calendar)
+- [Meta](#meta)
 
 ## Europe
 
@@ -94,6 +95,28 @@ Contributions welcome. Anything missing? Send in a pull request. Thanks.
 
 ### Links
 
+
+
+## Calendar
+
+NOTE: A calendar page ([CALENDAR.md](CALENDAR.md)) gets auto-generated from this page listing beer festivals sorted by date (that is, year and month) or better try the "live" version using the [whatson command line tool](https://github.com/textkit/whatson). Type:
+
+~~~
+$ beerfest
+~~~
+
+resulting in:
+
+~~~
+Upcoming Beer Festivals:
+
+  in 9d    Ottakringer Braukultur Wochen (9 Brauereien in 9 Wochen), Thu-Wed Jul/2-Sep/2 (63d) @ 16., Ottakring › Vienna / Wien › Austria / Österreich (at) › Central Europe › Europe
+  in 31d   Annafest ("Auf den Kellern"), Fri-Mon Jul/24-Aug/3 (11d) @ Forchheim › Upper Franconia / Oberfranken › Bavaria / Bayern › Germany / Deutschland (de) › Central Europe › Europe
+  in 32d   Kulmbacher Bierwoche, Sat-Sun Jul/25-Aug/2 (9d) @ Kulmbach › Upper Franconia / Oberfranken › Bavaria / Bayern › Germany / Deutschland (de) › Central Europe › Europe
+  in 58d   Sandwerka (Sandkirchweih), Thu-Mon Aug/20-24 (5d) @ Bamberg › Upper Franconia / Oberfranken › Bavaria / Bayern › Germany / Deutschland (de) › Central Europe › Europe
+  in 88d   Oktoberfest ("Die Wiesn"), Sat-Sun Sep/19-Oct/4 (16d) @ Munich / München › Upper Bavaria / Oberbayern › Bavaria / Bayern › Germany / Deutschland (de) › Central Europe › Europe
+  ...
+~~~
 
 
 ## Meta
