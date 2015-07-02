@@ -9,7 +9,7 @@ A collection of awesome beer events (oktoberfest, starkbierfest, etc ) from arou
 ---
 
 
-Contributions welcome. Anything missing? Send in a pull request. Thanks.
+#### _Contributions welcome. Anything missing? Send in a pull request. Thanks._
 
 
 - [Europe](#europe)
