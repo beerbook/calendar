@@ -75,7 +75,7 @@ A collection of awesome beer events (oktoberfest, starkbierfest, etc ) from arou
 
 ##### Styria / Steiermark
 
-- **Who Cares for Beer** Festival by Bevog Brewery
+- **Who Cares for Beer Festival** by Bevog Brewery
   - 2016 @ Bad Radkersburg (Bevog Brewery); Sept/3
 
 
