@@ -49,7 +49,7 @@ A collection of awesome beer events (oktoberfest, starkbierfest, etc ) from arou
 
 <!-- new list -->
 
-- [Vienna Beer Week](http://www.viennabeerweek.at)
+- [**Vienna Beer Week**](http://www.viennabeerweek.at)
   - 2016 @ Vienna; Nov/12-20     
 
 <!-- 2016 is no 2 ??  or first one ?? -->
@@ -86,25 +86,30 @@ A collection of awesome beer events (oktoberfest, starkbierfest, etc ) from arou
 
 ###### Upper Bavaria / Oberbayern
 
-- [Oktoberfest ("Die Wiesn")](http://www.muenchen.de/veranstaltungen/oktoberfest.html)
+- [**Oktoberfest ("Die Wiesn")**](http://www.muenchen.de/veranstaltungen/oktoberfest.html)
+    - 2016 @ Munich / München; Sept/17-Oct/3   (Nr. ??)
     - 2015 @ Munich / München; Sept/19-Oct/4   (Nr. ??)
     - 2014 @ Munich / München; Sept/20-Oct/5   (Nr. ??)
 
 ###### Upper Franconia / Oberfranken
 
-- [Sandwerka (Sandkirchweih)](http://www.sandkerwa.de)
+- [**Sandwerka (Sandkirchweih)**](http://www.sandkerwa.de)
+   - 2016 @ Bamberg; Aug/25-29   (Nr. 66)
    - 2015 @ Bamberg; Aug/20-24   (Nr. 65)
    - 2014 @ Bamberg; Aug/21-25   (Nr. 64)
 
 <!-- new list -->
 
-- [Annafest ("Auf den Kellern")](http://www.forchheim.de/content/annafest-forchheim)
+- [**Annafest ("Auf den Kellern")**](http://www.forchheim.de/content/annafest-forchheim)
+   - 2017 @ Forchheim; Jul/21-31     (Nr. 177)
+   - 2016 @ Forchheim; Jul/22-Aug/1  (Nr. 176)
    - 2015 @ Forchheim; Jul/24-Aug/3  (Nr. 175)
    - 2014 @ Forchheim; Jul/25-Aug/4  (Nr. 174) 
 
 <!-- new list -->
 
-- [Kulmbacher Bierwoche](http://www.kulmbacher-bierwoche.de)
+- [**Kulmbacher Bierwoche**](http://www.kulmbacher-bierwoche.de)
+   - 2016 @ Kulmbach; Jul/30-Aug/7  (Nr. 67)
    - 2015 @ Kulmbach; Jul/25-Aug/2  (Nr. 66)
    - 2014 @ Kulmbach; Jul/26-Aug/3  (Nr. 65)
 
