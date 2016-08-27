@@ -42,6 +42,17 @@ A collection of awesome beer events (oktoberfest, starkbierfest, etc ) from arou
    - 2015 @ 16., Ottakring; Jul/2-Sept/2 (Nr. 3)
    - 2014 @ 16., Ottakring; Jul/3-Sept/3 (Nr. 2) 
 
+<!-- add @ Ottakringer Brewery -->
+
+- [Craft Bier Fest Wien](http://www.craftbierfest.at)
+   - 2016 @ 3., Marx Halle, Karl-Farkas-Gasse 19; Nov/18+19 
+
+<!-- new list -->
+
+- [Vienna Beer Week](http://www.viennabeerweek.at)
+  - 2016 @ Vienna; Nov/12-20     <!-- no 2 ??  or first one ??-->
+
+<!-- various locations/venues -->
 
 
 ##### Upper Austria / Oberösterreich
@@ -55,7 +66,13 @@ A collection of awesome beer events (oktoberfest, starkbierfest, etc ) from arou
   -->
 
 - [Mühlviertler Bierfestival](http://www.muehlviertler-bierfestival.at)
-  - 2015 @ Freistadt, Mühlviertel; Apr/10+11
+  - 2015 @ Freistadt, Mühlviertel; Apr/10+11        <!-- no. 2 ??  next one in 2017 ??-->
+
+
+##### Styria / Steiermark
+
+- Who Cares for Beer Festival 
+  - 2016 @ Bad Radkersburg (Bevog Brewery); Sept/3
 
 
 
