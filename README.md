@@ -117,7 +117,8 @@ A collection of awesome beer events (oktoberfest, starkbierfest, etc ) from arou
 
 #### Belgium / België / Belgique / Belgien (be)
 
-- [Belgian Beer Weekend](http://www.belgianbrewers.be/en/events/belgian-beer-weekend-171)
+- [**Belgian Beer Weekend**](http://www.belgianbrewers.be/en/events/belgian-beer-weekend-171) by Belgian Brewers
+   - 2016 @ Brussels; Sept/2-4 (Nr. 18)
    - 2015 @ Brussels; Sept/4-6 (Nr. 17)
 
 <!-- organized by Belgian Brewers 
