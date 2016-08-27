@@ -30,20 +30,26 @@ A collection of awesome beer events (oktoberfest, starkbierfest, etc ) from arou
 ##### Vienna / Wien
 
 - [Wiener Bierfest](http://www.wienerbierfest.at)
+   - 2017 @ 1., Am Hof; May/18-21   (Nr. 8)
+   - 2016 @ 1., Am Hof; May/19-22   (Nr. 7)
    - 2015 @ 1., Am Hof; May/28-31   (Nr. 6)
    - 2014 @ 1., Am Hof; Sept/11-14  (Nr. 5)
 
 <!-- new list -->
 
 - [Ottakringer Braukultur Wochen (9 Brauereien in 9 Wochen)](http://www.ottakringerbrauerei.at/braukulturwochen)
+   - 2016 @ 16., Ottakring; Jun/30-Aug/31 (Nr. 4)
    - 2015 @ 16., Ottakring; Jul/2-Sept/2 (Nr. 3)
    - 2014 @ 16., Ottakring; Jul/3-Sept/3 (Nr. 2) 
 
+
+
 ##### Upper Austria / Oberösterreich
 
-- [Biermesse Ried (Festival der Biervielfalt)](https://www.facebook.com/events/1605757036310674)
-   - 2015 @ Ried i. Innkreis; Oct/24+25  (Nr. 2)
-   - 2014 @ Ried i. Innkreis; Oct/25+26  (Nr. 1)
+- [Biermesse Ried (Festival der Biervielfalt)](http://www.bierig.org/Events-Bierfestival2016)
+   - 2016 @ Ried i. Innkreis; Oct/21+22  (Nr. 13)
+   - 2015 @ Ried i. Innkreis; Oct/24+25  (Nr. 12)
+   - 2014 @ Ried i. Innkreis; Oct/25+26  (Nr. 11)
 
 <!-- organized by BierIG  - http://www.bierig.org 
   -->
